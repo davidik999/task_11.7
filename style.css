@@ -1,0 +1,32 @@
+table {
+	width: 100%;
+	margin-bottom: 20px;
+	border: 2px solid #f36560;
+	border-collapse: collapse; 
+    border-radius: 20px;
+}
+table th {
+	font-weight: bold;
+	padding: 5px;
+	background: rgba(221, 203, 123, 0.747);
+	border: 1px solid #0a0a0a;
+}
+table td {
+	border: 1px solid #0c0c0c;
+	padding: 15px;
+    text-align: center; 
+    vertical-align: middle;
+	font-size: 25px;
+	height: 10px; 
+    width: 80px;
+	letter-spacing: 5px;
+}
+ h2 {
+    color: rgb(233, 65, 65);
+ }
+
+ body {
+    background-color: rgb(245, 237, 165);
+ }
+
+
